@@ -1,0 +1,10 @@
+{
+  "name": "resize-images-perch3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "sharp": "^0.25.4"
+  }
+}
